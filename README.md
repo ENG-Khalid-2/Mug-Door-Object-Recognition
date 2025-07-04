@@ -10,6 +10,13 @@ This project uses a **Keras model** to recognize objects in images, specifically
 
 
 The model is loaded in Python, processes the image, and predicts the object with confidence score.
+ ![code Example](code_pic_1.png)
+ ![code Example](code_pic_2.png)
+
+ **training**
+  ![train Example](1.png)
+
+
 
 ---
 
