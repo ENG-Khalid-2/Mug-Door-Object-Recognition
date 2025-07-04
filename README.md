@@ -2,7 +2,7 @@
 
 This project uses a **Keras model** to recognize objects in images, specifically:
 - **Mug**
-- - ![mug Example](mug_img.png)
+- - ![mug Example](Mug_img.png)
 
 - **Door**
 - ![Door Example](door_img.png)
