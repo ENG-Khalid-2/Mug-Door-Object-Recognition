@@ -2,7 +2,10 @@
 
 This project uses a **Keras model** to recognize objects in images, specifically:
 - **Mug**
+- ![Mug Example](Mug img.png)
 - **Door**
+- ![Door Example](door img.png)
+
 
 
 The model is loaded in Python, processes the image, and predicts the object with confidence score.
