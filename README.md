@@ -28,10 +28,10 @@ I uploaded the collected images to the training website:
 
 I used the generated code from the Teachable Machine, and tested it on Google Colab:
 
-- First code test:
+- Code test:
   <img src="code_pic 1.png" width="500">
 
-- Final code test:
+- The result :
   <img src="code_pic 2.png" width="500">
 ---
 
