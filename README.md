@@ -31,7 +31,7 @@ I used the generated code from the Teachable Machine, and tested it on Google Co
 - code test:
   <img src="code_pic 1.png" width="500">
 
-  
+  - the result :
   <img src="code_pic 2.png" width="500">
 
 ---
